@@ -6,6 +6,7 @@
 - **[Hot Module Replacement (HMR)](https://webpack.js.org/concepts/hot-module-replacement/)** ([React Hot Loader](https://github.com/gaearon/react-hot-loader))
 - Production build script (Webpack)
 - Image loading/minification ([Image Webpack Loader](https://github.com/tcoopman/image-webpack-loader))
+- Image import support (index.d.ts)
 - [SASS](http://sass-lang.com/) support
 - Code linting ([ESLint](https://github.com/eslint/eslint)) and formatting ([Prettier](https://github.com/prettier/prettier))
 
